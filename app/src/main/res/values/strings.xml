@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="hello_friends">Hello friends!!</string>
+    <string name="name">Name</string>
+    <string name="click_me">Click me!!</string>
+    <string name="switch">Switch</string>
+</resources>
